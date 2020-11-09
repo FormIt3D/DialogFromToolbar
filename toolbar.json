@@ -1,0 +1,10 @@
+{
+    "name": "Dialog From Toolbar",
+    "buttons": [
+        {
+            "name": "Dialog From Toolbar",
+            "command": "DialogFromToolbar.ShowDialog",
+            "iconText": "DT"
+        }
+    ]
+}
