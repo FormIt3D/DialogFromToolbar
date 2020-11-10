@@ -4,7 +4,7 @@ DialogFromToolbar.ShowDialog = function()
 {
     var dialogParams = {
     "PluginName": "Dialog From Toolbar",
-    "DialogBox": "PLUGINLOCATION/../HelloBlock/hello_block.html",
+    "DialogBox": "https://formit3d.github.io/HelloBlockAsync/index.html",
     "DialogBoxWidth": 500,
     "DialogBoxHeight": 300,
     "DialogBoxType": "Modeless"};
